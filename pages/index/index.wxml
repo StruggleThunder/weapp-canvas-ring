@@ -1,0 +1,7 @@
+<view class="centered">
+  <canvas-ring id="canvasRing" value="{{c_val}}"></canvas-ring>
+</view>
+
+<view class="centered">
+  <canvas-ring id="varyRing" value="{{vary_val}}" title="看我七十二变" maxValue="72" minValue="0" suffix="变" startDegree="{{vary_start}}" lineWidth="{{vary_lineW}}" lineColor="{{vary_color}}" canvasWidth="{{vary_width}}" valueColor="{{val_color}}"></canvas-ring>
+</view>
