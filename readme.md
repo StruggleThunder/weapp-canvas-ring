@@ -17,7 +17,7 @@
 }
 ```  
 
-##### index.wxss  
+##### index.wxml  
 ```js
 <canvas-ring id="canvasRing" value="{{c_val}}"></canvas-ring>
 ```  
